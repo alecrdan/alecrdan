@@ -1,7 +1,8 @@
 
 # 👋 Hey, I'm Alec Daniels
 🚀 Software Engineer | Full-Stack Developer | Problem Solver
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.alecdaniels.me/)
+<br>
+## [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.alecdaniels.me/)
 
 
 ## 🌐 Socials:
